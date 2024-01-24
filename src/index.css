@@ -1,0 +1,5 @@
+.root-container {
+    background-color:#f0cfcf; /* Código de color para beige */
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+  }
